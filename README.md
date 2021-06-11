@@ -53,7 +53,7 @@ $b->tampilWarna();
 
 ?>
 ```
-![1](https://github.com/abdulmajid96/Lab10Web/blob/main/SS/1.PNG)
+![1](https://github.com/abdulmajid96/Lab10Web/blob/main/ss/1.PNG)
 
 Buat file baru dengan nama form.php
 ```php
@@ -118,4 +118,4 @@ echo "</body></html>";
 
 ?>
 ```
-![2](https://github.com/abdulmajid96/Lab10Web/blob/main/SS/2.PNG)
+![2](https://github.com/abdulmajid96/Lab10Web/blob/main/ss/2.PNG)
